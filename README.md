@@ -17,3 +17,11 @@ Learning systems
 [Pythagorean method of memorization](https://en.wikipedia.org/wiki/Pythagorean_Method_of_Memorization)
 
 [Software based on spaced repetition and flashcards](https://ankiweb.net)
+
+[Mobile apps based on spaced repetition and flashcards](https://ankisrs.net/docs/AnkiMobile.html)
+
+Tasks planning (Improved todo list)
+----------------------------------------
+
+[Eisenhower Matrice](https://fr.wikipedia.org/wiki/Matrice_d'Eisenhower)
+
